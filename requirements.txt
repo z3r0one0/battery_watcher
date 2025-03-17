@@ -1,0 +1,4 @@
+wmi==1.5.1
+winotify==1.1.0
+pytest==7.4.0
+pytest-cov==4.1.0 
